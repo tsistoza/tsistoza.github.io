@@ -1,31 +1,28 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Vinton Sistoza",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "",
+    "email": "sistozav@hawaii.edu",
+    "phone": "808-796-8547",
+    "website": "https://tsistoza.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "tsistoza", "url": "http://github.com/tsistoza" },
+      { "network": "linkedin", "username": "vinton-sistoza", "url": "http://linkedin.com/in/vinton-sistoza-1174a2228" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning/Artifical Intelligence" },
+    { "name": "Game Development" },
+    { "name": "Operating Systems" },
+    { "name": "Coding" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "C#", "Javascript", "Assembly(x86-64)", "Python" , "Unity" , "PyTorch/Tensorflow"]
     },
     {
       "name": "Toolsets/OS",
