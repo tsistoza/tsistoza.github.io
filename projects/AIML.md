@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/codebreaker/binary.jpg
 title: "AI and Games"
-date: 2022
+date: 2023
 published: true
 labels:
   - Artificial Intelligence
