@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Experience thus far"
+title: "My experience"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
