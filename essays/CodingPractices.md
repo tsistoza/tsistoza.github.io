@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Formatting Code like an Essay"
+title: "Writing Space Proof Code"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
 published: true
