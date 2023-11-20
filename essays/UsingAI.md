@@ -45,4 +45,4 @@ The future role of AI will keep moving forward. As someone who is learning about
 
 ## Conclusion
 
-In conclusion, I have not used AI in this class too much, but outside of this class, I have been using it very extensively. To be more specific, I use ChatGPT to level up my learning, comprehension, and cut down on time of topics whether it is in Computer Science or Electrical Engineering.
+In conclusion, I have not used AI in this class too much, but outside of this class, I have been using it very extensively. To be more specific, I use ChatGPT to level up my learning, comprehension, and reduce time on topics whether it is in Computer Science or Electrical Engineering. I am expecting AI to keep evolving as time goes on, as long as GPUs, and CPUs continue to improve.
