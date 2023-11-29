@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Patterns - Unknown, but yet very familiar"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-20
+date: 2023-11-29
 published: true
 labels:
   - Engineering
