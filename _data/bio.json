@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "C#", "Javascript", "Assembly(x86-64)", "Python" , "Unity" , "PyTorch/Tensorflow"]
+      "keywords": [ "C", "C++", "C#", "JavaScript", "Assembly(x86-64)", "Python" , "Unity" , "PyTorch/Tensorflow", "MeteorJS/ReactJS"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "gcc/g++", "Visual Studio/VSCode" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "Visual Studio/VSCode", "Ghidra", "IntelliJ IDEA" ]
     }
   ],
   "education": [
@@ -42,7 +42,7 @@
     {
       "company": "UH Manoa College of Engineering",
       "position": "EE Grader",
-      "startDate": "2021-08-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
       "summary": "Help the professors, grade students homework.",
       "highlights": [
