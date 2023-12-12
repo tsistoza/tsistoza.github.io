@@ -23,4 +23,6 @@ Basically, having an AI learn to play videos games. I think with AI you have to 
 
 <img class="img-fluid" src="../img/ArtificialIntelligence/TigersAndGoats.png">
 
+## x96 Project
+
 I also have a x96 project that I am doing. We are training a game that the Professor Narayana has specifically made. It's a game about Tigers and Goats, where there are three tigers on a board (which is the games AI not the neural network AI) and the player which is the goats. The Goats need to be placed on to the board such that they can't be eaten. The tiger will only eat a goat if there right next to the goat and there is a space behind the goat. Kind of like how checker pieces move. As the Goats you want to trap the tigers so that they cannot freely move on the board. We made a neural network from scratch in TensorFlow/Keras. We are going to expand this neural network, but we will need a lot more compute power.
