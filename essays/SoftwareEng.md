@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "My Experience with Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
 published: true
@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-# Software Engineering – Into the Unknown
+# Into the Unknown
 
 The first thing that comes to mind when I think about Software Engineering is Software Development, but it’s not that. In my opinion Software Engineering is the really about the design, development, testing and maintenance of software applications. In the case of what we have done in class are website development. Going into the class, I’ve already had a good experience with JavaScript and GitHub, but that was it. Everything going forward is unknown to me. The idea of software engineering was still completely unknown to me, but as I continued learning about software engineering, software engineering is a lot deeper than I thought.
 
