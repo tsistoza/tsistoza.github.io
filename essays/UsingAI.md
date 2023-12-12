@@ -11,7 +11,7 @@ labels:
 
 ## Introduction
 
-I barely use any type of AI in this class. The only exceptions are using Bings ChatGPT (Copilot). I used to reduce the time I am trying to search for a specific thing. And I think using AI tools is great, just that when you are taking these classes you want these concepts to be stuck in your head, and I feel that using AI to write code defeats that purpose.
+I barely use any type of AI in this class. The only exceptions are using Bing's ChatGPT (Copilot). I used to reduce the time I am trying to search for a specific thing. And I think using AI tools is great, just that when you are taking these classes you want these concepts to be stuck in your head, and I feel that using AI to write code defeats that purpose.
 
 ## Experience with AI
 
@@ -29,7 +29,7 @@ This is where I mostly use ChatGPT to help me find resources on a specific topic
 
 ## Practical Applications
 
-Outside of AI, Microsoft has been adding a couple AI features to Windows 11. I have been using Copilot, which is ChatGPT, to help me with writing informative essays in other classes. Copilot is built into Windows 11. Like I discussed above, it significantly reduces the amount of time spent on a specific topic. In this case, I use ChatGPT to summarize webpages for me. I also use Copilot when learning in class. I am a Computer Engineer. We take Electrical Engineering classes and they have proven to be extremely difficult, so I always have Copilot up and running when the professors are lecturing. For me AI has been extremely effective for me. The only problem I have with AI is that I wish I found this sooner.
+Outside of AI, Microsoft has been adding a couple AI features to Windows 11. I have been using Copilot, which is ChatGPT, to help me with writing informative essays in other classes. Copilot is built into Windows 11. Like I discussed above, it significantly reduces the amount of time spent on a specific topic. In this case, I use ChatGPT to summarize webpages for me. I also use Copilot when learning in class. I am a Computer Engineer. We take Electrical Engineering classes, and they have proven to be extremely difficult, so I always have Copilot up and running when the professors are lecturing. For me AI has been extremely effective for me. The only problem I have with AI is that I wish I found this sooner.
 
 ## Challenges and Opportunities
 
