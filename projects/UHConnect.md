@@ -12,7 +12,7 @@ labels:
 summary: "UHConnect where UH Students and Companies can connect with each other."
 ---
 
-<img class="img-fluid" src="../img/UHConnect/meteor-logo.png">
+<img width="300px" class="rounded" src="../img/UHConnect/meteor-logo.png">
 
 ## What is UHConnect?
 
