@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UHConnect/UH_Connect_Main_Logo
+image: img/UHConnect/UH_Connect_Main_Logo.jpg
 title: "UHConnect"
 date: 2022
 published: true
