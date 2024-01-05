@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Writing Space Proof Code | Vinton Sistoza | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="img/Profile/me.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Vinton Sistoza | Professional Portfolio">
+    <meta property="og:url" content="https://tsistoza.github.io/essays/CodingPractices.html">
+    <meta property="og:title" content="Writing Space Proof Code | Vinton Sistoza | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="img/Profile/me.jpg">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Writing Space Proof Code | Vinton Sistoza | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Vinton Sistoza</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Writing Space Proof Code</h1>
+  <span class="date">20 Sep 2023</span>
+  <hr>
+  <h1 id="formatting-code-like-an-essay">Formatting Code Like An Essay</h1>
+
+<p>This is all about following certain guidelines to keep the code looking uniform throughout. I mainly use Visual Studio Code, and I always follow a certain guideline as to how my code is presented. I like my code being readable, it doesn’t just look like a bunch of spaghetti code put together. For example, using tons and tons of else if statements, when you could just use a switch statement, or return earlier, so it does not fall through. Or maybe you have way too many conditions just for an if statement, when you could just split them up. I have done this countless times, and it always felt that the code was not up to my standards, especially when we do code reviews, and I see other peoples code that isn’t just a mess. And I do think programmers should do at least some <code class="language-plaintext highlighter-rouge">code review</code> because when you do finally land a job its highly likely that you will be put into a code review session.</p>
+
+<h1 id="what-is-a-code-review">What is a code review?</h1>
+
+<p>You can think of code reviews as peer reviews. It is an act of quality assurance of the code base. After a developer has completed his code, a code review is an important step to get a second opinion on the solution before ultimately implementing. As someone who has participated in a code review before, it is not an event where we should insult and laugh at other programmers, it is an event where we help improve programmers, and maybe even set guidelines on how code should be formatted. It is an event, where we learn new programming techniques from your peers.</p>
+
+<h1 id="experience-with-eslint">Experience with ESLint</h1>
+
+<p><img class="img-fluid" src="../img/ESLintErrors.png" /></p>
+
+<p>I have never really used any type of linting tools till now, mainly because I like to follow my own coding standards. For example, I never use curly brackets for any conditional statements such as a for statement or an if statement, if you are only using one line of code.
+Or, if you are in a function keep the code indented, so that I know that this code is for this particular function. In particular, I agree that coding standards help learn a programming language. When I started programming, I had never used any linting tools. I started coding in vim with the C Programming Language, so if you made any syntax errors, the only thing that will tell you is the compiler. I find that you learn more if there are errors. And so, my experience with ESLint has been great, this is how I learned to program, and it is a lot faster than compiling a C program, and reading off from the compiler, but that is also one of the reasons I ultimately switched over to Visual Studio Code, is because I can check these syntax errors, without compiling it. I am loving ESLint so far, I may look into more linters for other programming languages.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
