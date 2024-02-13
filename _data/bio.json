@@ -1,0 +1,70 @@
+{
+  "basics": {
+    "name": "Vinton Sistoza",
+    "label": "Student",
+    "picture": "img/Profile/me.jpg",
+    "email": "vinton.dev@gmail.com",
+    "phone": "808-XXX-XXX",
+    "website": "https://tsistoza.github.io/",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "tsistoza", "url": "http://github.com/tsistoza" },
+      { "network": "linkedin", "username": "vinton-sistoza", "url": "http://linkedin.com/in/vinton-sistoza-1174a2228" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning/Artifical Intelligence" },
+    { "name": "Game Development" },
+    { "name": "Operating Systems" },
+    { "name": "Databases" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "C#", "JavaScript", "Assembly(x86-64)", "Python" , "Unity" , "PyTorch/Tensorflow", "MeteorJS/ReactJS"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "Visual Studio/VSCode", "Ghidra", "IntelliJ IDEA" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "Present"
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa College of Engineering",
+      "position": "EE Grader",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "Help the professors, grade students homework.",
+      "highlights": [
+        "Oversee students work",
+        "Maintain effective communication with instructors and deal with any discrepancy from students"
+      ]
+    },
+    {
+      "company": "BestBuy",
+      "position": "Geek Squad Agent",
+      "startDate": "2018-06-23",
+      "endDate": "2019-08-01",
+      "summary": "Mostly helping people with computers",
+      "highlights": [
+        "Help customers, with any discrepancies that deal with technology",
+        "Familiarize customers on how to use a specfic type of technology"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
